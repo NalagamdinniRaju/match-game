@@ -1,0 +1,10 @@
+.thumbnail {
+  max-height: 150px;
+  max-width: 150px;
+  margin: 8px;
+  cursor: pointer;
+}
+.btn {
+  background-color: transparent;
+  border: 0;
+}
